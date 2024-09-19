@@ -1,1 +1,1 @@
-echo "Dit is een voorbeeld van devops"
+echo "Dit is een voorbeeld van devopsdit is een aanpassing"
